@@ -1,5 +1,5 @@
 year,month,tmax,tmin,af,rain,sun,station,,,
-1941,1,NA,NA,NA,74.7,NA,aberporth,,,https://www.kaggle.com/datasets/josephw20/uk-met-office-weather-data?resource=download
+1941,1,NA,NA,NA,74.7,NA,aberporth,,,
 1941,2,NA,NA,NA,69.1,NA,aberporth,,,
 1941,3,NA,NA,NA,76.2,NA,aberporth,,,
 1941,4,NA,NA,NA,33.7,NA,aberporth,,,
